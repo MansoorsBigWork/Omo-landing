@@ -4,6 +4,10 @@ OMO Landing is the public landing page for **One Million Opportunities (OMO)**, 
 
 Live site: [onemillionopportunities.com](https://onemillionopportunities.com)
 
+## Preview
+
+![OMO landing page preview](./public/omo_landing_image.PNG)
+
 ## About OMO
 
 One Million Opportunities (OMO) is focused on solving a major employability problem: students struggle to get meaningful work experience, while companies struggle to identify candidates who can actually do the job beyond what looks good on paper.
