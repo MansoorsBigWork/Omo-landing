@@ -14,8 +14,6 @@ One Million Opportunities (OMO) is focused on solving a major employability prob
 
 OMO’s product vision includes:
 - **OMOships** — short, real-world work simulations built from actual company challenges
-- **Jimmy** — an AI career co-pilot that helps students understand what is standing between them and the roles they want
-
 This landing page is the first public-facing layer of that vision.
 
 ## Purpose of this repository
